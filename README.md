@@ -9,3 +9,6 @@ Autonnmys Node-DB Download tool can help synchronize nodes quickly
 ![捕获](https://github.com/ServerAlive/AutonnmysNodeDB/assets/175286730/18f1be3d-b758-47bf-9f0a-99bc0c180030)
 
 ### 3. Restart Space Acres.
+
+## Download
+https://github.com/ServerAlive/AutonnmysNodeDB/releases/tag/V1.0.0
